@@ -85,7 +85,7 @@ h3{
 .exp-block {
   height: 340px;
   position: relative;
-  border: 3px dotted black;
+  border: 3px dotted #16a085;
   text-align:center;
   padding-top:120px;
   padding-bottom:120px;
@@ -98,7 +98,7 @@ h3{
   height: 100%;
   width: 100%;
   position: absolute;
-  background-color: black;
+  background-color: #16a085;
   top: 0;
   left: 0;
   color: white;
