@@ -18,6 +18,7 @@ footer{
     bottom:0;
     width:100%;
     display:inline-block;
+    margin-top:30px;
 
 }
 
@@ -63,6 +64,7 @@ margin-left:100px;
 h2{
   font-family: 'montserrat',arial, sans-serif;
   font-size:30px;
+  font-weight:bold;
   text-align:center;
   margin-bottom:30px;
   padding-top:30px;
@@ -81,12 +83,12 @@ h3{
 
 
 .exp-block {
-  height: 300px;
+  height: 340px;
   position: relative;
   border: 3px dotted black;
   text-align:center;
-  padding-top:100px;
-  padding-bottom:100px;
+  padding-top:120px;
+  padding-bottom:120px;
   padding-right:40px;
   padding-left:40px;
   
@@ -100,6 +102,9 @@ h3{
   top: 0;
   left: 0;
   color: white;
+  padding-top:20px;
+  padding-bottom:20px;
+  text-align:left;
 }
 
 .exp-block:hover .hidden{
